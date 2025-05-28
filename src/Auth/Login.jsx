@@ -85,7 +85,7 @@ function Login() {
           </p>
         </div>
         <div className="flex flex-col items-center justify-center bg-neutral-100 h-full w-1/2">
-          <div className="flex flex-col items-center bg-neutral-150 p-5 gap-5 px-10 rounded-lg shadow-md">
+          <div className="flex flex-col items-center bg-neutral-150 p-5 gap-5 md:px-10 rounded-lg shadow-md">
             <div className="flex flex-col items-center bg-gradient-to-br from-cyan-400 to-sky-600 rounded-full">
               <RiAccountPinCircleFill className="text-6xl p-2 text-neutral-50" />
             </div>
